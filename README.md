@@ -18,6 +18,7 @@ If you find this work useful, please cite our paper:
 @article{choi2024canvas,
     title={CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction}, 
     author={Suhwan Choi and Yongjun Cho and Minchan Kim and Jaeyoon Jung and Myunchul Joe and Yubeen Park and Minseo Kim and Sungwoong Kim and Sungjae Lee and Hwiseong Park and Jiwan Chung and Youngjae Yu},
+    journal={arXiv preprint arXiv:2410.01273},
     year={2024}
 }
 ```

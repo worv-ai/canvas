@@ -16,8 +16,9 @@ COMMAND dataset will be released soon.
 If you find this work useful, please cite our paper:
 ```
 @article{choi2024canvas,
-    title={CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction}, 
-    author={Suhwan Choi and Yongjun Cho and Minchan Kim and Jaeyoon Jung and Myunchul Joe and Yubeen Park and Minseo Kim and Sungwoong Kim and Sungjae Lee and Hwiseong Park and Jiwan Chung and Youngjae Yu},
-    year={2024}
+  title={CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction},
+  author={Choi, Suhwan and Cho, Yongjun and Kim, Minchan and Jung, Jaeyoon and Joe, Myunchul and Park, Yubeen and Kim, Minseo and Kim, Sungwoong and Lee, Sungjae and Park, Hwiseong and others},
+  journal={arXiv preprint arXiv:2410.01273},
+  year={2024}
 }
 ```

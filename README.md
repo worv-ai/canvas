@@ -5,6 +5,7 @@ Suhwan Choi, Yongjun Cho, Minchan Kim, Jaeyoon Jung, Myunchul Joe, Yubeen Park, 
 
 ## News
 - [2024.10.02] CANVAS [paper](https://arxiv.org/abs/2410.01273) and project [page](https://worv-ai.github.io/canvas) released.
+- [2024.10.22] 🎉🎉 [CANVAS](https://openreview.net/forum?id=U6wyOnPt1U) is accepted to [NeurIPS 2024 Workshop Open-World Agents](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/OWA) as an **oral presentation!** 🎉🎉
 
 ## CANVAS model
 CANVAS-L and CANVAS-S model will be released soon.

@@ -1,5 +1,6 @@
 # CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction
-Suhwan Choi, Yongjun Cho, Minchan Kim, Jaeyoon Jung, Myunchul Joe, Yubeen Park, Minseo Kim, Sungwoong Kim, Sungjae Lee, Hwiseong Park, Jiwan Chung, Youngjae Yu
+
+Suhwan Choi*, Yongjun Cho*, Minchan Kim*, Jaeyoon Jung*, Myunchul Joe, Yubeen Park, Minseo Kim, Sungwoong Kim, Sungjae Lee, Hwiseong Park, Jiwan Chung, Youngjae Yu
 
 [![project-page](https://img.shields.io/badge/Project%20Page-blue?style=flat-square)](https://worv-ai.github.io/canvas) [![arXiv](https://img.shields.io/badge/arXiv-2410.01273-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2410.01273)
 
